@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Georgia
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on cool projects
+- 💞️ I’m looking to collaborate with cool people on cool projects
 - 📫 How to reach me: just email me
 
 <!---
